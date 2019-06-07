@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="btn_1">+</string>
+    <string name="btn_2">-</string>
+    <string name="btn_3">Resetear</string>
+    <string name="check">Permitir cuenta negativa</string>
+    <string name="counter">Contador</string>
+    <string name="_0">0</string>
+</resources>
